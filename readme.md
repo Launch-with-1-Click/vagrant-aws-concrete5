@@ -1,6 +1,6 @@
 # Vagarnt AWS Concrete5
 
-[https://aws.amazon.com/marketplace/pp/B00J72BK2E/ref=sp_mpg_product_title?ie=UTF8&sr=0-5](DigitalCube inc.)
+[DigitalCube inc.](https://aws.amazon.com/marketplace/pp/B00J72BK2E/ref=sp_mpg_product_title?ie=UTF8&sr=0-5)
 
 ## Getting Started
 
